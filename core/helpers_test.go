@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/polygomic/go-ibft/messages/proto"
 )
 
 /*	HELPERS */

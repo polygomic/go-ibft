@@ -9,8 +9,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/0xPolygon/go-ibft/messages"
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/polygomic/go-ibft/messages"
+	"github.com/polygomic/go-ibft/messages/proto"
 )
 
 // generateNodeAddresses generates dummy node addresses

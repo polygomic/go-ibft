@@ -1,4 +1,4 @@
-module github.com/0xPolygon/go-ibft
+module github.com/polygomic/go-ibft
 
 go 1.19
 
